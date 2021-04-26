@@ -1,3 +1,5 @@
+# Completed exrecise 2
+
 # Exercise 2 - Lists and indices (10 points)
 
 The exercise for this week is meant to help you better understand lists in Python, and practice saving changes to your files using Git and GitHub. You will also get to practice the Markdown syntax. 
